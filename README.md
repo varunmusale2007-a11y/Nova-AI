@@ -66,8 +66,8 @@ Or run via Uvicorn directly:
 uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
 ```
 
-Open your browser and navigate to:
-**[http://localhost:8000](http://localhost:8000)**
+Direct link to the website is given below
+https://varunmusale2007-a11y.github.io/Nova-AI/
 
 ---
 
