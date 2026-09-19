@@ -1,0 +1,44 @@
+{
+  "active_session_id": "74c96ff9-fbd0-4e97-bb53-381dd8f3a167",
+  "sessions": {
+    "default-session": {
+      "id": "default-session",
+      "title": "Fresh Conversation",
+      "created_at": "2026-09-19T13:34:56.534599",
+      "updated_at": "2026-09-19T13:36:27.342031",
+      "messages": [
+        {
+          "id": "91b7aa1d-ee92-4df5-8406-f718faec8f88",
+          "role": "user",
+          "content": "give me some inforamtion about the user",
+          "timestamp": "2026-09-19T13:35:17.230210"
+        },
+        {
+          "id": "7752c8f5-d3a7-41b4-8511-cfba25dce436",
+          "role": "assistant",
+          "content": "**User Information**\n\nI'd like to learn a bit more about you, dear user. Please feel free to share any information that makes you feel comfortable and secure.\n\n*   What is your name (or would you like to be referred to as \"User\" or \"Friend\" by default)?\n*   What is your age, occupation, or field of interest?\n*   Do you have any specific pain points, goals, or challenges you'd like to discuss or learn more about?\n*   Are there any particular topics or areas you'd like to explore in more depth?\n\nYour input will help me better understand your needs and provide more personalized support.",
+          "timestamp": "2026-09-19T13:35:33.570520"
+        },
+        {
+          "id": "7d33f07d-bc63-4902-bc9f-47be2a586a96",
+          "role": "user",
+          "content": "my name is nova",
+          "timestamp": "2026-09-19T13:36:15.109234"
+        },
+        {
+          "id": "08eba617-6aa9-4964-ae79-6c1e79d8534b",
+          "role": "assistant",
+          "content": "**Hello, Nova!**\n\nThank you for sharing your name with me, Nova! It's great to have you here, and I'm excited to learn more about you.\n\n**Getting to Know You**\n\nAs we chat, I'll do my best to provide you with helpful insights and suggestions. To make our conversation more effective, I have a few questions for you:\n\n*   How did you first discover our conversation AI? Was it through a recommendation or a personal experience?\n*   What motivates you? What are your goals, aspirations, or challenges that you'd like to discuss or work on?\n*   How would you describe your current level of comfort with technology? Are you comfortable with the idea of using a chatbot like me, or would you prefer to interact with a human?\n*   Are there any specific topics or areas you'd like to explore in more depth or discuss in more detail?\n\nYour responses will help me tailor my support to better meet your needs and provide more effective guidance.",
+          "timestamp": "2026-09-19T13:36:27.342031"
+        }
+      ]
+    },
+    "74c96ff9-fbd0-4e97-bb53-381dd8f3a167": {
+      "id": "74c96ff9-fbd0-4e97-bb53-381dd8f3a167",
+      "title": "New Conversation",
+      "created_at": "2026-09-19T13:42:54.780256",
+      "updated_at": "2026-09-19T13:42:54.780256",
+      "messages": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "model": "llama3",
+  "temperature": 0.65,
+  "top_p": 0.9,
+  "system_prompt": "You are Aura in Ultra-Concise Mode.\nDeliver direct, laser-focused answers with zero conversational fluff.\nUse bullet points, exact commands, and high-density technical summaries.",
+  "auto_tts": true,
+  "voice_rate": 1.1,
+  "voice_pitch": 1.0,
+  "selected_voice": "Microsoft Susan - English (United Kingdom)",
+  "simulation_mode": false
+}
